@@ -8,7 +8,11 @@
   - [Requisitos Funcionales](#requisitos-funcionales)
   - [Requisitos no Funcionales](#requisitos-no-funcionales)
 
-Se requiero de un microservicio API RESTful que reciba peticiones HTTP para la gestión de Productos y Servicios que serán vendidos y ofrecidos por nuestra empresa example.com.
+Como se explica en [qué son requisitos?](que-son-requisitos.md), antes de iniciar un desarrollo, es importante tener conocimiento de qué es lo que requiere el usuario y en qué orden se debe abordar estos requisitos.
+
+Aún, cuando no vamos a pronfundizar en la gestión de requisitos, si levantaremos algunos con el fin de tener claro qué se va a desarrollar, pero, sin perder de vista, que el objetivo principal de este proyecto es sobre técnicas para la resolución de problemas en el desarrollo de software.
+
+Se requiere de un microservicio API RESTful que reciba peticiones HTTP para la gestión de Productos y Servicios que serán vendidos y ofrecidos por nuestra empresa example.com.
 
 ## Requisitos Funcionales
 
