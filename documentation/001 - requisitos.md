@@ -1,3 +1,5 @@
+![banner](./images/banner-requisitos.webp)
+
 # Contenido
 
 - [Requisitos](#requisitos)
