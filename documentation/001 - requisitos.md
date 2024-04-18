@@ -1,3 +1,5 @@
+# Requisitos
+
 ![banner](./images/banner-requisitos.webp)
 
 # Contenido
@@ -6,11 +8,11 @@
   - [Requisitos Funcionales](#requisitos-funcionales)
   - [Requisitos no Funcionales](#requisitos-no-funcionales)
 
-# Requisitos
-
 Se requiero de un microservicio API RESTful que reciba peticiones HTTP para la gestión de Productos y Servicios que serán vendidos y ofrecidos por nuestra empresa example.com.
 
 ## Requisitos Funcionales
+
+![requisitos funcionales](./images/functional%20requests%20.webp)
 
 Los requisitos funcionales, son todos aquellos requisitos que ofrecen una funcionalidad al usuario del sistema.
 
@@ -45,3 +47,5 @@ Los requisitos funcionales, son todos aquellos requisitos que ofrecen una funcio
    - Internacionalización: Soportar múltiples idiomas para que el microservicio pueda ser utilizado por usuarios en diferentes regiones geográficas.
 
 ## Requisitos no Funcionales
+
+![requisitos no funcionales](./images/non%20functional%20requests.webp)
