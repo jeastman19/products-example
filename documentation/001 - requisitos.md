@@ -16,7 +16,7 @@ Se requiere de un microservicio API RESTful que reciba peticiones HTTP para la g
 
 ## Requisitos Funcionales
 
-![requisitos funcionales](./images/functional%20requests%20.webp)
+<img  src="./images/functional requests .webp" width="50%" />
 
 Los requisitos funcionales, son todos aquellos requisitos que ofrecen una funcionalidad al usuario del sistema.
 
@@ -52,4 +52,4 @@ Los requisitos funcionales, son todos aquellos requisitos que ofrecen una funcio
 
 ## Requisitos no Funcionales
 
-![requisitos no funcionales](./images/non%20functional%20requests.webp)
+<img src="./images/non functional requests.webp" width="50%"/>
