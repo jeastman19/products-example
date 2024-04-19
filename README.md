@@ -38,6 +38,7 @@ Los microservicios serán desarrollados en su totalidad con [TypeScript][ts] par
 - [Git][git]: Considerado actualmente la herramienta por excelencia para el control de versiones de nuestros desarrollos, e igualmente utilizados por otros profesionales de otras áreas.
 - [GitHub][github]: Es uno de los servicios en la nube para guardar nuestros proyectos con git.
 - [MongoDB][mongo]: Sistema de Gestion de Base de Datos del grupo NoSQL o Orientado a Documentos muy utilizado en la actualidad.
+- [Neo4j][neo4j]: Base de datoa Orientada a Grafos (GDBMS), es una base de datos documentación, en la cual, las relaciones son ciudadanos de primer orden y incluyen información sobre la relación entre dos nodos.
 - [NodeJS][node]: Entorno de ejecución de programas desarrollados en JavaScript
 - [TypeScript][ts]: Será el lenguaje empleado para escribir todo el código para Node.js, que luego será transpilado, ya que Node.js solo comprende [JavaScript][js]
 
@@ -98,5 +99,6 @@ Este proyecto está licenciado bajo la Licencia MIT. Esto significa que tienes a
 [license]: ./LICENSE
 [mongo]: https://www.mongodb.com/es
 [node]: https://nodejs.org/en
+[neo4j]: https://neo4j.com/
 [ts]: https://www.typescriptlang.org/
 [requisitos]: ./documentation/001%20-%20requisitos.md
