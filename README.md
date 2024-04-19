@@ -32,13 +32,13 @@ Acontinuación se listan las tecnologías empleadas en el desarrollo y ejecució
 
 Los microservicios serán desarrollados en su totalidad con [TypeScript][ts] para ser ejecutado en [NodeJS][node] y utilizando [Express][express] para la gestión de las peticiones HTTP,
 
-- [Docker][docker]
-- [Docker Compose][compose]
-- [Express][express]
-- [Git][git]
-- [GitHub][github]
-- [MongoDB][mongo]
-- [NodeJS][node]
+- [Docker][docker]: Docker permite encapsular aplicaciones en contenedores que luego puden ser ejecutadas en cualquier ambien en el cual se tenga Docker instalado, dando una gran portabilidad a las aplicaciones eliminando así la necesidad de modificar el código para adaptarlo a distintas plataformas.
+- [Docker Compose][compose]: docker-compose, es un orquestador de contenedores docker, excelente para probar varios microservicios en entorno local, no recomendado para entornos productivos, aún cuando se utiliza en tales casos para proyectos muy pequeños.
+- [Express][express]: Es un mini framework para desarrollo de servicios HTTP, no es el único, pero si uno de los más utilizados.
+- [Git][git]: Considerado actualmente la herramienta por excelencia para el control de versiones de nuestros desarrollos, e igualmente utilizados por otros profesionales de otras áreas.
+- [GitHub][github]: Es uno de los servicios en la nube para guardar nuestros proyectos con git.
+- [MongoDB][mongo]: Sistema de Gestion de Base de Datos del grupo NoSQL o Orientado a Documentos muy utilizado en la actualidad.
+- [NodeJS][node]: Entorno de ejecución de programas desarrollados en JavaScript
 - [TypeScript][ts]: Será el lenguaje empleado para escribir todo el código para Node.js, que luego será transpilado, ya que Node.js solo comprende [JavaScript][js]
 
 ## Instalación
